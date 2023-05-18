@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.nav-link{
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+#nav-bar{
+    background-image: url('fond.jpg');
+    color: white;
+    height: 600px;
+    position: sticky;
+}
+.nouv{
+    font-size: 60px;
+}
+.span{
+    letter-spacing: 4px;
+    font-size: 30px;
+}
+.cartes{
+    position: relative;
+    bottom: 90px;
+    border: none;
+   
+}
+.carte1{
+    border: none;
+    background-image: url('cate1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    height: 300px;
+    width: 350px;
+}
+ .para{
+    letter-spacing: 2px;
+}
+.carte2{
+    border: none;
+    background-image: url('carte2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    height: 300px;
+    width: 350px;
+}
+.carte3{
+    border: none;
+    background-image: url('cart3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    height: 300px;
+    width: 350px;
+}
+.card1{
+    width: 350px;
+    height: 300px;
+    border-color: #00a8ff;
+}
+.card1 img{
+    width: 50px;
+    position: relative;
+    left: 120px;
+    bottom: 30px;
+    background-color: white !important;
+}
+.sev{
+    font-size: 30px;
+    font-weight: 300;
+    color: rgb(182, 180, 180);
+}
+.spane{
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(182, 180, 180);
+}
+.spanes{
+    font-size: 30px;
+    font-weight: 300;
+    color: rgb(182, 180, 180);
+}
+.card{
+    width: 350px;
+}
+.card-title{
+    height: 60px;
+}
+.card-title img{
+    border-radius: 50%;
+    position: relative;
+    bottom: 60px;
+}
+.button a{
+    color: #00a8ff;
+    border-color: #00a8ff;
+    width: 150px;
+    padding: 15px;
+}
+.cons{
+    background-image: url('pricing.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+
+.tab1{
+    width: 600px;
+    padding: 20px;
+    background-color: #00a8ff;
+    color: white;
+}
+.tab2{
+    width: 350px;
+    padding: 20px;
+    background-color: gray;
+    color: white;
+    float: right;
+}
+.dash{
+    float: right;
+
+}
+.avfin{
+    background-color: #00a8ff;
+    color: white;
+    height: 400px;
+}
+
+footer{
+    background-image: url('footer.jpg');
+    color: white;
+}
